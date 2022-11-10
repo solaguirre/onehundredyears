@@ -21,3 +21,17 @@ li a {
   li a:hover {
     background-color: #111;
   }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #111;
+    columns: white;
+    text-align: center;
+  }
+
+  .foot {
+    color: white;
+  }
