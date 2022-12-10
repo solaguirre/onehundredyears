@@ -43,7 +43,17 @@ li a {
   }
 
   .hero-image {
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("assets/images/IMG_8443.jpeg");
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("assets/images/IMG_8436.jpeg");
+    height: 65%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+  }
+  
+  .hero-image-two {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("assets/images/jardin.jpg");
     height: 65%;
     background-position: center;
     background-repeat: no-repeat;
