@@ -78,7 +78,7 @@ li a {
     color: white;
   }
 
-  .about-section {
+  .about-section, .donation-section {
     text-align: center;
   }
 
@@ -87,3 +87,4 @@ li a {
     text-align: center;
 
   }
+
