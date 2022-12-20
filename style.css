@@ -98,10 +98,16 @@ li a:hover {
 
   }
   
-.main-section {
+.main-section, .performance {
   text-align: center;
 }
 
-.performance {
+.row {
+  width: auto;
   text-align: center;
+}
+
+.col {
+  padding-top: 4px;
+  padding-bottom: 4px;
 }

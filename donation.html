@@ -14,8 +14,8 @@
 </head>
 <body>
     <!-- Navbar begins -->
-    <nav>
-        <ul>
+    <nav >
+        <ul class="nav">
             <li>
                 <a href="index.html">Home</a>
             </li>
@@ -36,24 +36,29 @@
     <!-- navbar ends -->
 
     <!-- body begins-->
+
     <div class="donation-section">
-        <h1>Donation</h1>
+        <div class="row row-cols-4">
+            <div class="col">
+            <img src="assets/images/missionviewptavenmo.png" alt="Mission View PTA Venmo Profile" width="300" height="300">
+            <p>You can send your donation for our celebration using our PTA's Venmo account. If you would like to use your phone, scan the QR code.</p>
+            </div>
 
-        <section>
-            <p>You can send your donation for our celebration using our PTA's Venmo account<p>
+        </div>
+        <div class="col">
             
-            <p>
-                <img src="assets/images/missionviewptavenmo.png" alt="Mission View PTA Venmo Profile" width="300" height="300">
 
-            </p>
-
-            <p>
             <a href="https://account.venmo.com/u/missionviewpta" class="btn btn-info btn-lg active" role="button" aria-pressed="true">Donate here</a>
+        </div>
 
-            </p>
 
-        </section>
+      
+        <div class="col"> 
+            <img src="assets/images/venmoqr.png" alt="Mission View PTA Venmo Profile" width="150" height="250">
 
+        </div>
+    </div>
+    
     </div>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
