@@ -110,4 +110,5 @@ li a:hover {
 .col {
   padding-top: 4px;
   padding-bottom: 4px;
+  justify-content: center;
 }
