@@ -1,0 +1,11 @@
+{
+    "name": "solaguirre/onehundredyears",
+    "description": "Package for stie",
+    "type": "library",
+    "require": {
+        "php": "^8.2",
+        "composer": "^2.5"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
+}
