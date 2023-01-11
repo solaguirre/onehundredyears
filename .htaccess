@@ -1,6 +1,15 @@
-#remove html file extension-e.g. https://example.com/file.html will become https://example.com/file
+# mod_rewrite remove html file extension-e.g. https://example.com/file.html will become https://example.com/file
 
 RewriteEngine on 
+
+# does not apply to existing directories, meaning that if the folder exists on the server then don't change anything and dont run the Rule
+
 RewriteCond %{REQUEST_FILENAME} !-d
+
+# check for file in directory with . html extension
+
 RewriteCond %{REQUEST_FILENAME}\.html -f
+
+# show the page that has the .html extension (irreg expre) take entire URL if cond are true and show it as it is but shown as nc=nonecase LETTERS CAN BE UPPERMOR LOER L= conds only apply to before, but not in code ahead
+
 RewriteRule ^(.*)$ $1.html [NC,L]

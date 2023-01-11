@@ -93,13 +93,13 @@ li a:hover {
   }
 
 .schedule-section {
-    background-color: white;
-    text-align: center;
+  background-color: white;
+  text-align: center;
+}
 
-  }
-  
 .main-section, .performance {
   text-align: center;
+  padding-top: 12px;
 }
 
 .row {
