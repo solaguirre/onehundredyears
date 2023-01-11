@@ -97,7 +97,7 @@ li a:hover {
   text-align: center;
 }
 
-.main-section, .performance {
+.main-section, .performance .food {
   text-align: center;
   padding-top: 12px;
 }
