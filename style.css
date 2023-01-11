@@ -99,6 +99,7 @@ li a:hover {
 
 .main-section, .performance {
   text-align: center;
+  padding-top: 12px;
 }
 
 .row {
