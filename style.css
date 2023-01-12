@@ -100,7 +100,7 @@ li a:hover {
   padding-bottom: 8px;
 }
 
-.main-section, .performance .food {
+.main-section {
   text-align: center;
   padding-top: 12px;
 }
@@ -119,5 +119,15 @@ li a:hover {
 .food {
   padding-top: 12px;
   padding-bottom: 50px;
-  
+
+}
+
+.performance {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.table {
+  text-align: justify;
+  padding-bottom: 100px;
 }
