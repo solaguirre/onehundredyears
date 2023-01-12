@@ -95,6 +95,8 @@ li a:hover {
 .schedule-section {
   background-color: white;
   text-align: center;
+  padding-top: 4px;
+  padding-bottom: 8px;
 }
 
 .main-section, .performance .food {
@@ -111,4 +113,10 @@ li a:hover {
   padding-top: 4px;
   padding-bottom: 4px;
   justify-content: center;
+}
+
+.food {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  
 }
