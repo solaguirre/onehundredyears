@@ -49,6 +49,7 @@ li a:hover {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    padding-bottom: 50px;
   }
   
 .hero-image-two {
@@ -59,7 +60,6 @@ li a:hover {
     background-size: cover;
     position: relative;
     padding-bottom: 200px;
-
   }
 
 .hero-text {
@@ -90,8 +90,8 @@ li a:hover {
 
 .about-section, .donation-section, .upload-section {
   text-align: center;
-  padding-top: 25px;
-  padding-bottom: 75px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   }
 
 .schedule-section {
