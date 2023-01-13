@@ -49,7 +49,6 @@ li a:hover {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-
   }
   
 .hero-image-two {
@@ -132,6 +131,9 @@ li a:hover {
 
 .table {
   text-align: justify;
+  padding-top: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
   padding-bottom: 100px;
 }
 
@@ -160,4 +162,11 @@ li a:hover {
 
 .socials {
   padding-top: 25px;
+}
+
+.btn {
+  padding-top: 45px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 45px;
 }
