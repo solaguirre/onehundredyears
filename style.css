@@ -91,6 +91,7 @@ li a:hover {
 
 .about-section, .donation-section, .upload-section {
     text-align: center;
+    padding-bottom: 100px;
   }
 
 .schedule-section {
@@ -114,6 +115,7 @@ li a:hover {
   padding-top: 4px;
   padding-bottom: 4px;
   justify-content: center;
+
 }
 
 .food {
