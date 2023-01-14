@@ -147,7 +147,7 @@ li a:hover {
 }
 
 .fa:hover {
-    opacity: 0.7;
+  opacity: 0.7;
 }
 
 .fa-facebook {
@@ -162,13 +162,6 @@ li a:hover {
 
 .socials {
   padding-top: 25px;
-}
-
-.btn {
-  padding-top: 45px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 45px;
 }
 
 .disclaimer {
