@@ -172,3 +172,8 @@ li a:hover {
 .footer {
   font-size: small;
 }
+
+.text-center {
+  height: 25%;
+  width: 25;
+}
