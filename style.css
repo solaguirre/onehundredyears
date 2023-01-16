@@ -44,12 +44,11 @@ li a:hover {
 
 .hero-image {
     background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("assets/images/main2.jpeg");
-    height: 65%;
+    height: 55%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding-bottom: 50px;
   }
   
 .hero-image-two {
@@ -92,6 +91,8 @@ li a:hover {
   text-align: center;
   padding-top: 50px;
   padding-bottom: 50px;
+  background-color: whitesmoke;
+
   }
 
 .schedule-section {
@@ -177,3 +178,4 @@ li a:hover {
   height: 25%;
   width: 25;
 }
+
