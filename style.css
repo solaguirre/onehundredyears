@@ -90,7 +90,7 @@ li a:hover {
 .about-section, .donation-section, .upload-section {
   text-align: center;
   padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 25px;
   background-color: whitesmoke;
 
   }
