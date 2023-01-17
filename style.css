@@ -87,20 +87,13 @@ li a:hover {
     color: white;
   }
 
-.about-section, .donation-section, .upload-section {
+.container-fluid, .container-donation, .container-upload {
   text-align: center;
   padding-top: 50px;
-  padding-bottom: 25px;
+  padding-bottom: 50px;
   background-color: whitesmoke;
 
   }
-
-.schedule-section {
-  background-color: white;
-  text-align: center;
-  padding-top: 4px;
-  padding-bottom: 8px;
-}
 
 .main-section {
   text-align: center;
@@ -119,10 +112,9 @@ li a:hover {
 
 }
 
-.food {
+.container {
   padding-top: 12px;
   padding-bottom: 50px;
-
 }
 
 .performance {
@@ -179,3 +171,6 @@ li a:hover {
   width: 25;
 }
 
+.logopic {
+  opacity: 85%;
+}
